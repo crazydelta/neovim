@@ -1370,7 +1370,7 @@ describe('ui/ext_messages', function()
                                                                                       |
       {MATCH:.*}|
                                                                                       |
-                        Nvim is open source and freely distributable                  |
+                        Nvim is [Test: Rajesh] open source and freely distributable                  |
                                   https://neovim.io/#chat                             |
                                                                                       |
                        type  :help nvim{5:<Enter>}       if you are new!                  |
